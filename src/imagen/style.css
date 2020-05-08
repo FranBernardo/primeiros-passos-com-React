@@ -1,0 +1,18 @@
+.imagem {
+  width: 30%;
+  position: relative;
+  top: 0px;
+  left: 35%;
+}
+.fotos {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.iconeP {
+  width: 19px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 45%;
+}
